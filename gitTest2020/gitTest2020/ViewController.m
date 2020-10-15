@@ -18,6 +18,9 @@
     
     NSLog(@"2020");
     
+    int a = 10;
+    int b = 100;
+    
     // Do any additional setup after loading the view.
 }
 
