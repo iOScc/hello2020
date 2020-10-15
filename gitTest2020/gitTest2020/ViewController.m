@@ -21,6 +21,9 @@
     int a = 10;
     int b = 100;
     
+    
+    double d = 10.33;
+    
     // Do any additional setup after loading the view.
 }
 
