@@ -24,6 +24,8 @@
     
     double d = 10.33;
     
+    NSLog(@"2020年10月16日09:11:58");
+    
     // Do any additional setup after loading the view.
 }
 
